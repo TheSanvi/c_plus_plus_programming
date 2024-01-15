@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/c_plus_plus_programming/function",
-      "program": "c:/c_plus_plus_programming/function/build/Debug/outDebug",
+      "cwd": "c:/c_plus_plus_programming/pattern",
+      "program": "c:/c_plus_plus_programming/pattern/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
