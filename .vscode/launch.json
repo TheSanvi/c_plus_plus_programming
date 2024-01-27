@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/c_plus_plus_programming/array.cpp",
-      "program": "c:/c_plus_plus_programming/array.cpp/build/Debug/outDebug",
+      "cwd": "c:/c_plus_plus_programming/array.cpp/2DArray",
+      "program": "c:/c_plus_plus_programming/array.cpp/2DArray/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
