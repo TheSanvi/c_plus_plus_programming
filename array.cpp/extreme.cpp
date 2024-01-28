@@ -20,5 +20,5 @@ int main(){
     start ++;
     end--;
     }
-    return 0;
+    return 0;        
 }
