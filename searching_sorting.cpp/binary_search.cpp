@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
-
-int binarySearch(int arr[],int size,int target){
+int binarySearch(int 
+ arr[],int size,int target){
     int start =0;
     int end = size-1;
 
@@ -40,4 +40,4 @@ int main(){
         cout<<"target found at"<<indexoftarget<<endl;
     }
     return 0;
-}
+} 
